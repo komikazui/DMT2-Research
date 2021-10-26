@@ -5,6 +5,7 @@ As of writing this readme, there are no (public) tools to extract the contents o
 # Client.exe informations
 As of 7/21/2021, I have not found anything regarding an AES key/pak key. I will continue to investigate further. I have not checked for keys, and it will probably be a while before I crack down on them. I will be busy the following week (7/29) until late August. So this "project" is held off until my return.
 Update as of 9/12/2021 - This project has started up again. I found a common string of what seems to be keys... Now for figuring out how to use said keys. Update as of 10-16-2021 - I heard from a source that they keys are also inside dump crash files, for DMT3 at least. I've not looked at DMT2 yet, but I will keep you guys updated.
+Update as of 10/26/2021 - Yes, the crashlog dump files include keys. I dont know where said keys are located as DMT3 crashlog has different offsets compared to DMT2.
 # Contribute to this project!
 Help is greatly appreciated! submit pull requests and i will merge. 
 # Important information
